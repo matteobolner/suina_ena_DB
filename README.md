@@ -1,2 +1,2 @@
-# suina_ena_DB
+# Suina ENA DB
 Database of Suina samples and reads deposited on ENA
